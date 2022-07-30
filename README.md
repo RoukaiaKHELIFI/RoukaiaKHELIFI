@@ -1,4 +1,4 @@
-[![MasterHead](https://img1bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_V7gXU6vn.gif)]
+![MasterHead](https://img1bm.b8cdn.com/images/resources/wysiwyg-img/answerimg_V7gXU6vn.gif)
 <h1 align="center">Hello world! 👋, I am Roukaia</h1>
 <h3 align="center">A very passionate Data Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
